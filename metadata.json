@@ -1,6 +1,17 @@
 {
-    "name": "C&P500",
-    "symbol": "CPI",
-    "description": "CryptoIndex & Portfolio 500 Token",
-    "image": "https://raw.githubusercontent.com/dp287517/cp500-metadata/main/logo-modified.png"
-  }
+  "name": "C&P500",
+  "symbol": "CPI",
+  "description": "CryptoIndex & Portfolio 500 Token",
+  "image": "https://raw.githubusercontent.com/dp287517/cp500-metadata/main/logo-modified.png",
+  "external_url": "In progress",
+  "attributes": [
+    {
+      "trait_type": "Artificial intelligence & RWA",
+      "value": "Index Token"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "10000"
+    }
+  ]
+}
